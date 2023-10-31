@@ -4,7 +4,7 @@
 
 Im Working Since 2015 (As App Developer) wave Currently Working as an Professional full stack mobile application Developer ------------------------------> Can Develop Android & IOS Mobile Application - Including Web Admin Panel Using PhP - API Development Using PhP. Mobile Application Development is my passion .I love to do programming its my hobby & Daily Life Thing . Everyday I'm learning & finding new things hope this will encourage me to work more & more . 
 
-Skills: Java / Android / Flutte / C /  .net / C# / html 5/ CSS  
+Skills: Java / Android / Dart / Flutte / PhP / C /  .net / C# / html 5/ CSS  
 
 - 🔭 I’m currently working on Live Streaming App 
 - 🌱 I’m currently learning JS 
